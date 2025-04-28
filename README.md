@@ -15,6 +15,6 @@ Las estructuras de datos que se utilizaron fueron:
 
 ## Ejecutar con el comando
 
-'''
+```
 clj -M -m climate-analysis.Main
-'''
+```
